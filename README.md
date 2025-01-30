@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Currently Working On: An E-commerce Marketplace<br>👯 Looking to Collaborate On: E-commerce Website Projects<br>🤝 Seeking Help With: Advanced Front-End Engineering and Modern Development Tools<br>🌱 Currently Learning: MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>💬 Ask Me About: Front-End Development, WordPress, React.js, or Headless CMS Solutions<br>⚡ Fun Fact: I can debug code faster than I can decide what to order for lunch!
 
-## Resume
+## 📄 Resume
 [![Download My Resume](https://img.shields.io/badge/Download%20My%20Resume-blue?style=for-the-badge)](https://github.com/aimal-dev/resume/blob/main/Aimal_FrontEnd_Developer_Resume.pdf)
 
 ## 🌐 Socials:
