@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 Currently Working On: An E-commerce Marketplace<br>👯 Looking to Collaborate On: E-commerce Website Projects<br>🤝 Seeking Help With: Advanced Front-End Engineering and Modern Development Tools<br>🌱 Currently Learning: MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>💬 Ask Me About: Front-End Development, WordPress, React.js, or Headless CMS Solutions<br>⚡ Fun Fact: I can debug code faster than I can decide what to order for lunch!
 
+## Resume
+[![Download My Resume](https://img.shields.io/badge/Download%20My%20Resume-blue?style=for-the-badge)](https://github.com/aimal-dev/resume/blob/main/Aimal_FrontEnd_Developer_Resume.pdf)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamaymal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamaymal ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamaimal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/14790944/aimal-siddique) 
