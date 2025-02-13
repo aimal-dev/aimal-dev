@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 Currently Working On: An E-commerce Marketplace<br>👯 Looking to Collaborate On: E-commerce Website Projects<br>🤝 Seeking Help With: Advanced Front-End Engineering and Modern Development Tools<br>🌱 Currently Learning: MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>💬 Ask Me About: Front-End Development, WordPress, React.js, or Headless CMS Solutions<br>⚡ Fun Fact: I can debug code faster than I can decide what to order for lunch!
+🔭 Currently Working On: BoltOS Products including **BoltOS AI**, **BoltPlus TV**, **Vizio**, and **Vidaa**, using **React.js, Next.js, Redux, Redux-Saga, TypeScript, Blockchain**, and modern UI libraries like **Ant Design, Material UI, and Emotion.js**. <br>  
+👯 Looking to Collaborate On: AI-driven applications, streaming platforms, and scalable front-end solutions. <br>  
+🤝 Seeking Help With: Advanced Front-End Engineering, Performance Optimization, and Blockchain-based UI development. <br>  
+🌱 Currently Learning: MERN Stack (MongoDB, Express.js, React.js, Node.js) & Web3 for decentralized applications. <br>  
+💬 Ask Me About: Front-End Development, React.js, Next.js, WordPress, Headless CMS, and Modern UI Frameworks. <br>  
+⚡ Fun Fact: I can debug React components faster than I can decide what to watch on **BoltPlus TV**! 😆🎬 <br>  
 
 ## 📄 Resume
 [![Download My Resume](https://img.shields.io/badge/Download%20My%20Resume-blue?style=for-the-badge)](https://github.com/aimal-dev/resume/blob/main/Aimal_FrontEnd_Developer_Resume.pdf)
